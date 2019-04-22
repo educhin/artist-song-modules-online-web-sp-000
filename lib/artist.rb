@@ -1,7 +1,7 @@
 require 'pry'
 
 
-class Artist::Memorable
+class Artist
   extend Memorable
 
   attr_accessor :name
